@@ -9,7 +9,7 @@ menuToggle.addEventListener("click", function () {
 
 function share() {
   // Ganti URL dibawah ini dengan URL yang ingin Anda bagikan
-  var url = "https://karimsimarmata.github.io/XXemart/sipispis.html";
+  var url = "https://karimsimarmata.github.io/XXemart/semangat-myself.html";
 
   // Membuka jendela baru dengan URL yang ingin Anda bagikan
   window.open("https://www.facebook.com/sharer.php?u=" + encodeURIComponent(url));
@@ -22,7 +22,7 @@ function share() {
 }
 function sharewa() {
   // Ganti URL dibawah ini dengan URL yang ingin Anda bagikan
-  var url = "https://karimsimarmata.github.io/XXemart/sipispis.html";
+  var url = "https://karimsimarmata.github.io/XXemart/semangat-myself.html";
 
   // Membuka jendela baru dengan URL yang ingin Anda bagikan
   window.open("https://wa.me/?text=TEXT%20URL" + encodeURIComponent(url));
@@ -35,7 +35,7 @@ function sharewa() {
 }
 function sharetw() {
   // Ganti URL dibawah ini dengan URL yang ingin Anda bagikan
-  var url = "https://karimsimarmata.github.io/XXemart/sipispis.html";
+  var url = "https://karimsimarmata.github.io/XXemart/semangat-myself.html";
 
   // Membuka jendela baru dengan URL yang ingin Anda bagikan
   window.open("https://twitter.com/share?url=URL&text=TEXT" + encodeURIComponent(url));
@@ -48,7 +48,7 @@ function sharetw() {
 }
 function shareig() {
   // Ganti URL dibawah ini dengan URL yang ingin Anda bagikan
-  var url = "https://karimsimarmata.github.io/XXemart/sipispis.html";
+  var url = "https://karimsimarmata.github.io/XXemart/semangat-myself.html";
 
   // Membuka jendela baru dengan URL yang ingin Anda bagikan
   window.open("https://www.linkedin.com/shareArticle?url=URL&title=TITLE&summary=SUMMARY&source=SOURCE" + encodeURIComponent(url));
