@@ -25,7 +25,7 @@ function sharewa() {
   var url = "https://karimsimarmata.github.io/XXemart/sipispis.html";
 
   // Membuka jendela baru dengan URL yang ingin Anda bagikan
-  window.open("https://wa.me/?text=TEXT%20URL" + encodeURIComponent(url));
+  window.open("https://wa.me/?text=" + encodeURIComponent(url));
 
   // Untuk membagikan ke media sosial lainnya, Anda dapat menggunakan URL berikut:
   // Twitter: https://twitter.com/share?url=URL&text=TEXT
